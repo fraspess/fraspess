@@ -1,6 +1,6 @@
 # Hey, I'm Pavlo 👋
 
-16 y/o self-taught developer from Ukraine.
+16 y/o developer from Ukraine.
 I build backend systems and tinker with media processing and cloud infra.
 
 ## 🛠 Stack
