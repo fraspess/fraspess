@@ -13,6 +13,3 @@ I build backend systems and tinker with media processing and cloud infra.
 ![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat&logo=nginx&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonwebservices&logoColor=white)
 ![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat&logo=microsoftazure&logoColor=white)
-
-## 🔭 Currently working on
-- **TikTok_Clone** — TikTok-like platform with FFmpeg transcoding pipeline, RabbitMQ message queue and real-time WebSocket DMs
